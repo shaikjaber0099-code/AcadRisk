@@ -1,7 +1,7 @@
 # AcadRisk: University Portal UI/UX Design System Rationale
 
 > **Product**: AcadRisk — AI-Based Student Performance Prediction & Academic Risk Analysis System  
-> **Institution**: Apex Institute of Technology • Office of Academic Affairs  
+> **Institution**: Geethanjali College of Engineering and Technology • Office of Academic Affairs  
 > **Role**: Principal Product Designer  
 > **Target Personas**: Academic Council, Faculty Deans, Student Mentors & Enrolled Students  
 > **Accessibility Standard**: WCAG 2.2 AA (Color contrast $\ge 4.5:1$, visible focus gold rings, ARIA live regions, `prefers-reduced-motion`)
@@ -34,7 +34,7 @@ graph TD
 ### 2.1 Brand Layer & Institutional Motifs
 - **Crest-Style Mark (`CrestLogo`)**: Official institutional seal featuring the Shield of Governance, Torch of Knowledge, and Book of Wisdom.
 - **Academic Hierarchy**: Every primary console displays the header badge:  
-  `Apex Institute of Technology • Office of Academic Affairs • AY 2026-27 • Semester V`.
+  `Geethanjali College of Engineering and Technology • Office of Academic Affairs • AY 2026-27 • Semester V`.
 - **Architectural Visual Language**: Faint blueprint grids (`blueprint-grid`), arch and pillar section dividers (`arch-divider`), laurel watermark patterns, student ID-card style profile cards, and notice-board directive panels.
 - **Supportive Copy**: High-risk classifications are labeled `"Academic Intervention Recommended"` or `"Needs Attention"`, never "Failed" or "Delinquent".
 
@@ -120,7 +120,7 @@ The system defines 6 core variants (`primary`, `secondary`, `gold`, `ghost`, `de
 
 ### 6.1 Desktop Navigation
 - **Collapsible Sidebar (`SidebarNav`)**: Smooth $260\text{px} \to 72\text{px}$ collapse with shared-layout sliding gold pill and shortcut tooltips (`G D`, `G S`, `/`, `?`).
-- **University Top Bar (`TopBar`)**: Branch-aware breadcrumbs (`Apex > CSE > 24R11A0543`), branch switcher, animated notification bell, and circular theme reveal.
+- **University Top Bar (`TopBar`)**: Branch-aware breadcrumbs (`Geethanjali > CSE > 24R11A0543`), branch switcher, animated notification bell, and circular theme reveal.
 - **Command Palette (`CommandPalette`)**: Global `Cmd/Ctrl + K` searching students by roll number, name, phone, or running quick actions ("Show high-risk ECE students").
 
 ### 6.2 Key Screen Designs
@@ -146,4 +146,4 @@ The system defines 6 core variants (`primary`, `secondary`, `gold`, `ghost`, `de
 
 ---
 
-*Authored by the Principal Product Designer for the Office of Academic Affairs, Apex Institute of Technology.*
+*Authored by the Principal Product Designer for the Office of Academic Affairs, Geethanjali College of Engineering and Technology.*

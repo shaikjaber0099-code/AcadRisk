@@ -6,7 +6,7 @@ import { signAuthToken } from '@/lib/auth';
 const DEMO_ACCOUNTS: Record<string, { role: 'STUDENT' | 'TEACHER' | 'ADMIN'; name: string; password: string; studentId?: string; studentRollNo?: string }> = {
   'teacher@acadrisk.edu': {
     role: 'TEACHER',
-    name: 'Prof. Marcus Holloway',
+    name: 'Prof. E Mahendher',
     password: 'Teacher@123',
   },
   'admin@acadrisk.edu': {

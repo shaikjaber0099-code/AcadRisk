@@ -41,7 +41,7 @@ export default function LoginPage() {
 
   const demoAccounts = {
     TEACHER: {
-      name: 'Prof. Marcus Holloway',
+      name: 'Prof. E Mahendher',
       email: 'teacher@acadrisk.edu',
       password: 'Teacher@123',
       title: 'Senior Faculty Advisor • CSE',
@@ -134,7 +134,7 @@ export default function LoginPage() {
                 Office of Academic Affairs
               </span>
               <h2 className="font-sans text-2xl sm:text-3xl font-bold text-white tracking-tight leading-snug">
-                Apex Institute of Technology
+                Geethanjali College of Engineering and Technology
               </h2>
               <p className="text-xs sm:text-sm text-slate-300 font-sans leading-relaxed">
                 Welcome to the Central Academic Risk & Predictive Mentorship Gateway. Sign in with authorized university credentials to access verified decision intelligence.

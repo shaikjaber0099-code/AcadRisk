@@ -177,7 +177,7 @@ export default function LandingPage() {
             <CrestLogo size={28} showLabel={false} />
             <div className="flex items-center gap-2 text-xs">
               <span className="font-sans font-bold text-white tracking-wide">
-                Apex Institute of Technology
+                Geethanjali College of Engineering and Technology
               </span>
               <span className="text-slate-600">•</span>
               <span className="text-slate-300 font-sans">Office of Academic Affairs</span>

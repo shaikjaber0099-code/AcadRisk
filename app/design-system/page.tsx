@@ -155,7 +155,7 @@ export default function DesignSystemPage() {
                   Design Identity
                 </span>
                 <h1 className="font-sans text-3xl font-bold text-white mt-1">
-                  Apex University Portal Design System
+                  Geethanjali College of Engineering and Technology Portal Design System
                 </h1>
                 <p className="text-sm text-slate-400 mt-2 max-w-2xl leading-relaxed">
                   Engineered specifically for academic governance, dean-level decision making, and student mentorship. Every token and component honors the university campus aesthetic—dignified, trustworthy, and supportive.
@@ -758,7 +758,7 @@ export default function DesignSystemPage() {
                     <span className="w-3 h-3 rounded-full bg-emerald-500/80" />
                   </div>
                   <div className="px-6 py-1 rounded-md bg-navy-950 text-[11px] font-mono text-slate-400 border border-white/5">
-                    portal.apex-university.edu/dashboard
+                    portal.geethanjali.edu.in/dashboard
                   </div>
                   <div className="text-xs font-mono text-portal-gold">1440 × 900</div>
                 </div>

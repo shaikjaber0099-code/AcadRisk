@@ -167,7 +167,7 @@ export default function AnalyzePage() {
               Add & Analyze Student Dossier
             </h1>
             <p className="text-xs text-slate-400 mt-1 font-sans">
-              Deterministic 3-step evaluation following Apex Institute Office of Academic Affairs protocol.
+              Deterministic 3-step evaluation following Geethanjali College of Engineering and Technology Office of Academic Affairs protocol.
             </p>
           </div>
 

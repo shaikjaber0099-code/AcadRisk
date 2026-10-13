@@ -231,7 +231,7 @@ export function CommandPalette({ isOpen, onClose, students = [] }: CommandPalett
                 <span>↵ Open</span>
                 <span>ESC Close</span>
               </div>
-              <span className="text-zinc-300">Apex Institute Academic Affairs</span>
+              <span className="text-zinc-300">Geethanjali College Academic Affairs</span>
             </div>
           </motion.div>
         </div>

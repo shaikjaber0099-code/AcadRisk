@@ -103,7 +103,7 @@ export default function Navbar() {
       <div className="bg-[#0B0F19] border-b border-slate-800/80 px-4 py-1 text-center text-xs text-slate-300 flex items-center justify-center gap-2 select-none">
         <ShieldCheck className="w-3.5 h-3.5 text-sky-400" />
         <span className="font-sans tracking-wide text-white font-medium">
-          Apex Institute of Technology • Office of Academic Affairs
+          Geethanjali College of Engineering and Technology • Office of Academic Affairs
         </span>
         <span className="hidden sm:inline-block text-slate-400 font-sans">
           — AY 2026-27 • Semester V Academic Risk & Intervention Cycle Active

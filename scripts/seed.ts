@@ -222,7 +222,7 @@ async function seed() {
     data: {
       email: 'teacher@acadrisk.edu',
       passwordHash: teacherHash,
-      name: 'Prof. Marcus Holloway',
+      name: 'Prof. E Mahendher',
       role: 'TEACHER',
     },
   });

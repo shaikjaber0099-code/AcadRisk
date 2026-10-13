@@ -48,7 +48,7 @@ export function TopBar({
 
   // Derive breadcrumbs based on route
   const getBreadcrumbs = () => {
-    const crumbs = [{ label: 'Apex University', href: '/' }];
+    const crumbs = [{ label: 'Geethanjali College', href: '/' }];
     if (pathname.includes('/dashboard')) {
       crumbs.push({ label: 'Academic Dashboard', href: '/dashboard' });
     } else if (pathname.includes('/students')) {
