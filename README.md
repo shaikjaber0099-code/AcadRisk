@@ -100,6 +100,18 @@ Exam month projection blends **70% linear trend forecast** + **30% current weigh
 
 ---
 
+## 🚀 Deployment (Vercel)
+
+AcadRisk is ready for 1-click deployment on Vercel:
+
+1. Import the repository [`shaikjaber0099-code/AcadRisk`](https://github.com/shaikjaber0099-code/AcadRisk) on [Vercel](https://vercel.com/new).
+2. Configure Environment Variables in the Vercel project dashboard:
+   - `DATABASE_URL`: `file:./dev.db` (or a managed PostgreSQL connection string if preferred)
+   - `JWT_SECRET`: Any random 32+ character secure key
+   - `NEXT_PUBLIC_APP_URL`: `https://your-project.vercel.app`
+3. Click **Deploy**. Vercel will run `postinstall: prisma generate` and `next build` automatically.
+
+---
+
 ## 🛡 Ethical Disclaimer
 AcadRisk is an assistive decision-support framework designed for educators and academic counselors. It does not replace human faculty judgment, and must never be used to penalize, rank publicly, or stigmatize students.
->>>>>>> 9b35ca1 (feat: AcadRisk university portal with Nordic Slate & Frost Blue theme)
